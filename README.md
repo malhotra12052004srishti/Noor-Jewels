@@ -22,5 +22,6 @@ Welcome to the Noor Jewels repository! This project is a comprehensive e-commerc
 ## Technologies Used
 
 - HTML
+- BootStrap
 - CSS
 - JavaScript
